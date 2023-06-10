@@ -1,0 +1,17 @@
+{
+    "name": "MFlores01/lab10_sql_joins",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MFlores01",
+            "email": "flores.miguelcarlo@auf.edu.ph"
+        }
+    ]
+}
